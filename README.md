@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/beyond7/beyond7/raw/master/1.gif)
+![](https://github.com/beyond7/beyond7/raw/master/2.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyond7&layout=compact&theme=monokai&count_private=true)
 
